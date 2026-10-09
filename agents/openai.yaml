@@ -1,0 +1,6 @@
+interface:
+  display_name: "你的留学作品集真的有效吗"
+  short_description: "审核交互、体验、服务与产品设计作品集的单个项目与逐页表达"
+  default_prompt: "使用 $portfolio-project-pre-review 预审我上传的一个设计作品集项目，并生成逐页图文报告。"
+policy:
+  allow_implicit_invocation: true
